@@ -11,7 +11,9 @@ This repository supports the journal publication …
 # Why has the ISVEHI been created?
 Ireland’s climate is changing. Observations show evidence of higher temperatures, rising sea levels, and changing patterns of precipitation, with trends expected to continue and intensify into the future. Consequently, an increase in the occurrence and intensity of fluvial and coastal flooding, coastal erosion, drought, and heatwaves are expected. 
 These hazards can impact upon people and assets, and depending on the severity, may cause a loss of life or damage to key infrastructure. Risk assessments are therefore needed to understand the risks posed by these hazards to inform adaptation. 
+
 The Intergovernmental Panel on Climate Change (IPCC), define risk as comprising three components: a hazard, exposure to the hazard, and vulnerability. In Ireland, data and information on future climate change, hazards, and assets that are potentially exposed are available already. However, to date, there has been no national assessment of vulnerability to environmental hazards within Ireland.   
+
 To begin to address the social vulnerability knowledge gap in Ireland, the Irish Social Vulnerability to Environmental Hazards Index (ISVEHI) has been developed.
 
 # The Code
