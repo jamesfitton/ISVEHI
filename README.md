@@ -3,7 +3,7 @@ The ISVEHI is a spatial assessment of the social vulnerability of Ireland’s po
 The index has been developed using a total of 22 indicators representing attributes, such as age, health, education level, local knowledge. These indicators were combined with equal weighting and mapped at the CSO small area scale with each small area being assigned a social vulnerability score. An example of the spatial output for Dublin can be seen below.
 
 <p align="center">
-<img src="images/Figure_07.jpg" width="500">
+<img src="images/dublin.jpg" width="600">
 </p>
 
 This repository supports the journal publication …
