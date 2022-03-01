@@ -1,4 +1,4 @@
-# The Irish Social Vulnerabiltiy to Environmental Hazards Index (ISVEHI)
+# The Irish Social Vulnerability to Environmental Hazards Index (ISVEHI)
 The ISVEHI is a spatial assessment of the social vulnerability of Ireland’s population to climate-related hazards (e.g. flooding, (coastal, fluvial, and pluvial), coastal erosion, strong wind/storms, heatwaves). Social vulnerability is “the sensitivity of a population to natural hazards and its ability to respond to and recover from the impacts of hazards”.
 The index has been developed using a total of 22 indicators representing attributes, such as age, health, education level, local knowledge. These indicators were combined with equal weighting and mapped at the CSO small area scale with each small area being assigned a social vulnerability score. An example of the spatial output for Dublin can be seen below.
 
@@ -23,7 +23,7 @@ The environment mimics the R environment that the code was developed upon, there
 
 **Step 1: Download ISEVHI:** Clone or download the ISEVHI repository from GitHub using the button 'Clone or Download' above and save it somewhere locally on your computer, e.g. C:\ISEVHI.
 
-**Step 2. Anaconda:** Install [Anaconda](https://www.anaconda.com/download/). Open the Anaconda prompt (PC) or on a Mac or Linux system open a terminal window. Use the `cd` command to change the directory, and navigte to go the folder where you have downloaded the ISEVHI repository (see [here](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands) for information on how to use the command prompt).
+**Step 2. Anaconda:** Install [Anaconda](https://www.anaconda.com/download/). Open the Anaconda prompt (PC) or on a Mac or Linux system open a terminal window. Use the `cd` command to change the directory, and navigate to go the folder where you have downloaded the ISEVHI repository (see [here](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands) for information on how to use the command prompt).
 
 **Step 3: Create a new environment:** Create a new environment named `ISEVHI` with all the required packages:
 
