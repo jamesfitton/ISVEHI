@@ -59,7 +59,7 @@ You should use the scripts in the following order:
 
 # Support
 
-If you are having a problem, please create a new [Issue](https://github.com/jamesfitton/CoastXRay/issues). This keeps all problems and solutions in the same place and acts as a resource for other users to address the same/similar problems.
+If you are having a problem, please create a new [Issue](https://github.com/jamesfitton/ISVEHI/issues). This keeps all problems and solutions in the same place and acts as a resource for other users to address the same/similar problems.
 
 
 
